@@ -1,0 +1,48 @@
+
+/*bar start*/
+.c-bar{
+	background: #7430FA;
+}
+
+/*bar end*/
+
+/*cns*/
+.icon-clr{
+	color: #7430FA;
+}
+.c-l{}
+.c-l ul{}
+.c-l ul li{
+	margin: 5px 0px;
+
+}
+.c-l ul li a{
+	font-size: 17px;
+	font-weight: 500;
+	text-decoration: none;
+	color: #5B5B5B;
+	padding: 3px 5px 5px 5px;
+	transition: 0.03s;
+	 
+}
+
+.c-l ul li a:hover{
+	background: #7430FA;
+	color: white;
+	border-radius: 5px;
+	
+
+
+}
+
+.c-l ul li:nth-child(18) a{
+	width: 35%;
+	background: #7430FA;
+	color: white;
+	border-radius: 5px;
+	
+}
+
+
+
+/*cne*/
